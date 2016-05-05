@@ -2,7 +2,7 @@
 published: true
 layout: default
 
-title: Credits
+title: Thank you
 category: exhibit
 ---
 
