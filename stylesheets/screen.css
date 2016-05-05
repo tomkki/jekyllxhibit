@@ -199,7 +199,7 @@ object {
 body {
   font-size: 13px;
   font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-serif;
-  background: #fff;
+  background: #E4E4E4;
   color: #000;
   line-height: 1.3em;
   /* font-weight: 300; */
@@ -342,7 +342,7 @@ h4 {
 /* line 54, ../sass/screen.scss */
 #index {
   width: 215px;
-  background: #fff;
+  background: #F9F9F9;
   /* line-height: 1.3em; */
 }
 
