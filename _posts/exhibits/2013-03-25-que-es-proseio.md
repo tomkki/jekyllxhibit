@@ -11,7 +11,7 @@ category: exhibit
 <br><br>
 <img src="https://c2.staticflickr.com/8/7047/26729457592_35ec67e201_c.jpg">
 <br><br>
-<img src="">
+<img src="https://c2.staticflickr.com/8/7707/26218645053_86a0a80461_c.jpg">
 <br><br><br>
 Stills from HD videos, durations vary
 <br>
