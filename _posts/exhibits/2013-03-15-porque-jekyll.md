@@ -11,5 +11,5 @@ category: exhibit
 <br><br><br>
 Still from HD video (1/13), duration varies
 <br>
-March - July
+March - July, one video per week
 
