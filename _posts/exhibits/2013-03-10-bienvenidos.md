@@ -2,7 +2,7 @@
 published: true
 layout: default
 
-title: video work
+title: 
 category: exhibit
 home: true
 ---
