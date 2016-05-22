@@ -2,15 +2,10 @@
 published: true
 layout: default
 
-title: Schoolboys
+title: Black white red blue
 section: work
 category: exhibit
 ---
 
-<img src="https://c2.staticflickr.com/8/7399/26217724164_05f987161e_b.jpg">
-<br><br><br>
-Colour photograph
-<br>
-17 x 10 cm
-<br>
-March
+<iframe src="https://player.vimeo.com/video/163203339" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
