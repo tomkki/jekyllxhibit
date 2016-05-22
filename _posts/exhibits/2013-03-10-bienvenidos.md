@@ -7,4 +7,4 @@ category: exhibit
 home: true
 ---
 
-(Some) of the videos I have made/helped make 
+This site is a contains some videos I have made/helped make 
