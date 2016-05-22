@@ -2,9 +2,9 @@
 published: true
 layout: default
 
-title: hello
+title: hello 🐴
 category: exhibit
 home: true
 ---
 
-(Some) of the videos I have made/helped make
+(Some) of the videos I have made/helped make 
