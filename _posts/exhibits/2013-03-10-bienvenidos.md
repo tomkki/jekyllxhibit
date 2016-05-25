@@ -7,4 +7,6 @@ category: exhibit
 home: true
 ---
 
+<center>
+<img src="/shot0015.jpg">
 
