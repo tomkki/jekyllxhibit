@@ -7,10 +7,5 @@ section: work
 category: exhibit
 ---
 
-<img src="https://c2.staticflickr.com/8/7059/26823235435_9f49bfa27a_c.jpg">
-<br><br><br>
-A work with Emily Cloete
-<br>
-Still from HD video, 2 hours 15 minutes
-<br>
-March
+<iframe src="https://player.vimeo.com/video/167995816" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
