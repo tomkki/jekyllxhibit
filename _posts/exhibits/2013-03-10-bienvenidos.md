@@ -8,5 +8,5 @@ home: true
 ---
 
 <center>
-<img src="/shot0015.jpg">
+<img src="/shot0015.jpg" height="360">
 
