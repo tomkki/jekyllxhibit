@@ -7,9 +7,6 @@ section: work
 category: exhibit
 ---
 
-<img src="https://c2.staticflickr.com/8/7595/26550606270_f9dd7c862a_c.jpg">
-<br><br><br>
-Still from HD video (1/13), duration varies
-<br>
-March - July, one video per week
+<iframe src="https://player.vimeo.com/video/167654404" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
