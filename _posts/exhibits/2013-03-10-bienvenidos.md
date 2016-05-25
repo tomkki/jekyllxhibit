@@ -2,9 +2,9 @@
 published: true
 layout: default
 
-title: hello 🐴
+title: 🐴
 category: exhibit
 home: true
 ---
 
-This site is a contains some videos I have made/helped make 
+A collection of videos
