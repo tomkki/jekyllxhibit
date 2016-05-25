@@ -2,7 +2,7 @@
 published: true
 layout: default
 
-title: 🐴
+title: 
 category: exhibit
 home: true
 ---
