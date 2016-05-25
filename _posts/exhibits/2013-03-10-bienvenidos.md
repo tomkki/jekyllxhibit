@@ -7,4 +7,4 @@ category: exhibit
 home: true
 ---
 
-A collection of videos
+
