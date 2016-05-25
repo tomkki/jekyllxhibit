@@ -2,7 +2,7 @@
 published: true
 layout: default
 
-title: 
+title: project site one
 category: exhibit
 home: true
 ---
