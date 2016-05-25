@@ -2,7 +2,7 @@
 published: true
 layout: default
 
-title: The One That Got Away
+title: The One That Got Away (excerpt)
 section: work
 category: exhibit
 ---
