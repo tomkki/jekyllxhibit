@@ -3,7 +3,7 @@ title: Untitled (Running)
 layout: default
 ---
 
-Running was made on the night of the first day back at Elam, March 1st 2016. It consists of a three­channel video of me running through Point Chevalier, the suburb that I live in. 
+_Running_ was made on the night of the first day back at Elam, March 1st 2016. It consists of a three­channel video of me running through Point Chevalier, the suburb that I live in. 
 <br><br>
 The videos show different stages of my run at once; the beginning, mid­point, and towards the end. The video was shot using a cheap digital camera, pointing at my face and held like a cellphone while I ran.
 <br><br>
