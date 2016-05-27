@@ -9,7 +9,7 @@ The videos show different stages of my run at once; the beginning, mid-point, an
 <br><br>
 As time progresses the light becomes dimmer, my face disappearing and at times coming into view under a street light. My breathing acts as a steady rhythm throughout the entire video.
 <br><br>
-There was little conceptual or artistic thought out into the work. The motivation to run emerged from not wanting to sit still and do nothing on the first day back. It is also loosely influenced by Martin Creed, who described the act of running as a spectacle and a sign of being alive.
+There was little conceptual or artistic thought put into the work. The motivation to run emerged from not wanting to sit still and do nothing on the first day back. It is also loosely influenced by Martin Creed, who described the act of running as a spectacle and a sign of being alive.
 <br><br>
 The work could be considered a precursor to the kind of framework I would put myself under for the project ahead. Interacting and framing my immediate environment and routine was a key driver for this project from the onset, and fed itself into the collaborative projects I did with Emily Cloete. 
 <br><br>
