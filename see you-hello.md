@@ -1,7 +1,7 @@
---
+---
 title: いってきます! and ただいま!
 layout: default
---
+---
 
 From February 2nd – June 2nd, I took a video of myself waving goodbye to my parents every morning, and another one in the afternoon when I came home from school. 
 <br><br>
