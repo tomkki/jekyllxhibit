@@ -10,7 +10,7 @@ category: exhibit
 <iframe src="https://player.vimeo.com/video/167995816" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br><br>
-In collaboration with Emily Cloete
+With Emily Cloete
 
 <br><br>
 <a href="/totga">Text</a>
