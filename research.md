@@ -7,7 +7,7 @@ layout: default
 <br><br><br><br>
 In looking back through my research for this project I attempted to create a video from all of the content I had gathered. My research book is messy, unchronological and chaotic, so making a fast-paced video with all of my research seemed appropriate.
 <br><br>
-A first year student (from 2015, thanks Tabitha!) told me about how she and her friends scanned every single page in their research book, also scanning pages from books, magazines and other sources to create a music video. Each scan would flash for a very short time, so the only way to read anything is to pause the video. This was the inspiration behind making the work.
+A first year student (from 2015) told me about how she and her friends scanned every single page in their research book, as well as pages from books, magazines and other sources to create a music video. Each scan would flash for a very short time, so the only way to read anything is to pause the video. This was the inspiration behind making the work.
 <br><br>
 With approximately 400 scans in total, each one lasts for a tenth of a second. I have included all of the work I have made for this project, including any artists or concepts that were of interest. Many videos of my friends have also been included, as I believe they are integral to my thinking and part of the research process.
 
